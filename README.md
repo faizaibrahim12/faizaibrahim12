@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @faizaibrahim12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @faizaibrahim12
+👀 I’m interested in Frontend Development, AI, and building user-friendly web apps
+🌱 I’m currently learning Python, OOP concepts, and Agentic AI (AutoGen, CrewAI, FastAPI)
+💞️ I’m looking to collaborate on open-source frontend or full-stack projects, especially those using Next.js or AI integrations
+📫 How to reach me: faizaqureshi883@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I used to dream of being an artist — now I paint the web with code! 🎨💻
 
-<!---
-faizaibrahim12/faizaibrahim12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
